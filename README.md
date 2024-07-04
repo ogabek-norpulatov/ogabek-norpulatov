@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ogabek Norpulatov
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter mobile development
-- 📫 How to reach me +998975777502, ogabeknorpulatov@gmail.com
+- 📫 How to reach me +998975777502, ogabeknorpulatov571@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
